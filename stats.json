@@ -1,10 +1,5 @@
 {
   "users": {
-    "abc123def456": {
-      "first_seen": "2024-12-05 10:30:00",
-      "last_seen": "2024-12-05 15:45:00",
-      "visits": 3
-    },
     "TmVwdHVuZV9w": {
       "first_seen": "2024-12-07 14:00:58",
       "visits": 13,
@@ -16,8 +11,8 @@
       "last_seen": "2024-12-07 14:58:59"
     }
   },
-  "total_unique_users": 2,
+  "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 16,
-  "total_users": 2
+  "total_visits": 13,
+  "total_users": 1
 }
