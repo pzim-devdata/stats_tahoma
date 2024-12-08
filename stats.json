@@ -1,31 +1,20 @@
 {
   "users": {
-    "TmVwdHVuZV9w": {
-      "first_seen": "2024-12-07 14:00:58",
-      "visits": 32,
-      "machine_info": {
-        "system": "posix",
-        "hostname": "Neptune",
-        "username": "neptune"
-      },
-      "last_seen": "2024-12-07 17:48:44",
-      "version": "Pypi"
-    },
     "aG9tZWJyaWRn": {
-      "visits": 4,
+      "visits": 1,
       "first_seen": "2024-12-07 16:23:37",
       "version": "Pypi",
       "last_seen": "2024-12-07 17:47:43"
     },
     "MjlmMTlkY2Qy": {
-      "visits": 2,
+      "visits": 1,
       "first_seen": "2024-12-07 16:46:24",
       "version": "Pypi",
       "last_seen": "2024-12-07 16:46:37"
     }
   },
-  "total_unique_users": 1,
+  "total_unique_users": 2,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 38,
-  "total_users": 3
+  "total_visits": 1,
+  "total_users": 2
 }
