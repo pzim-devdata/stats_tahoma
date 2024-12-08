@@ -1,8 +1,14 @@
 {
   "users": {
+    "TmVwdHVuZV9w": {
+      "visits": 1,
+      "first_seen": "2024-12-08 13:43:19",
+      "version": "Pypi",
+      "last_seen": "2024-12-08 13:43:19"
+    }
   },
   "total_unique_users": 2,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 3,
-  "total_users": 3
+  "total_visits": 1,
+  "total_users": 1
 }
