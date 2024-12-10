@@ -5,10 +5,16 @@
       "first_seen": "2024-12-08 13:43:19",
       "version": "Pypi",
       "last_seen": "2024-12-08 13:44:21"
+    },
+    "ZG9tb19wb3Np": {
+      "visits": 1,
+      "first_seen": "2024-12-10 16:06:20",
+      "version": "Github",
+      "last_seen": "2024-12-10 16:06:20"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 2,
-  "total_users": 1
+  "total_visits": 3,
+  "total_users": 2
 }
