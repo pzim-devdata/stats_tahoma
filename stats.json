@@ -1,10 +1,10 @@
 {
   "users": {
     "TmVwdHVuZV9w": {
-      "visits": 3,
+      "visits": 4,
       "first_seen": "2024-12-08 13:43:19",
       "version": "Pypi",
-      "last_seen": "2024-12-25 14:10:04"
+      "last_seen": "2025-02-27 08:42:00"
     },
     "ZG9tb19wb3Np": {
       "visits": 4,
@@ -33,6 +33,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 12,
+  "total_visits": 13,
   "total_users": 5
 }
