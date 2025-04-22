@@ -53,10 +53,16 @@
       "first_seen": "2025-04-21 20:30:28",
       "version": "Pypi",
       "last_seen": "2025-04-22 22:41:33"
+    },
+    "V0VSRlQtUENf": {
+      "visits": 1,
+      "first_seen": "2025-04-22 22:44:28",
+      "version": "Pypi",
+      "last_seen": "2025-04-22 22:44:28"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 219,
-  "total_users": 9
+  "total_visits": 220,
+  "total_users": 10
 }
