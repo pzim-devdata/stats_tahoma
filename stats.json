@@ -55,10 +55,10 @@
       "last_seen": "2025-05-03 00:08:34"
     },
     "V0VSRlQtUENf": {
-      "visits": 2,
+      "visits": 3,
       "first_seen": "2025-04-22 22:44:28",
       "version": "Pypi",
-      "last_seen": "2025-04-22 22:57:01"
+      "last_seen": "2025-05-04 15:41:16"
     },
     "b3NlbS1sYXB0": {
       "visits": 2,
@@ -69,6 +69,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 1446,
+  "total_visits": 1447,
   "total_users": 11
 }
