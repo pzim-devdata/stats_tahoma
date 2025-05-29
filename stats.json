@@ -83,10 +83,16 @@
       "first_seen": "2025-05-19 13:33:57",
       "version": "Pypi",
       "last_seen": "2025-05-19 13:58:41"
+    },
+    "YXJjaGxpbnV4": {
+      "visits": 1,
+      "first_seen": "2025-05-28 20:01:17",
+      "version": "Pypi",
+      "last_seen": "2025-05-28 20:01:17"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 1458,
-  "total_users": 14
+  "total_visits": 1459,
+  "total_users": 15
 }
