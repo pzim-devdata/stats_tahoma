@@ -49,10 +49,10 @@
       "last_seen": "2025-04-24 16:48:45"
     },
     "ZHRfcG9zaXg=": {
-      "visits": 7620,
+      "visits": 7621,
       "first_seen": "2025-04-21 20:30:28",
       "version": "Pypi",
-      "last_seen": "2025-07-16 08:41:15"
+      "last_seen": "2025-07-16 08:46:19"
     },
     "V0VSRlQtUENf": {
       "visits": 3,
@@ -123,6 +123,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 9892,
+  "total_visits": 9893,
   "total_users": 20
 }
