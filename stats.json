@@ -119,10 +119,16 @@
       "first_seen": "2025-07-14 18:46:41",
       "version": "Pypi",
       "last_seen": "2025-07-14 18:48:25"
+    },
+    "VGhvbWFzcy1N": {
+      "visits": 1,
+      "first_seen": "2025-07-20 09:12:18",
+      "version": "Pypi",
+      "last_seen": "2025-07-20 09:12:18"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 10591,
-  "total_users": 20
+  "total_visits": 10592,
+  "total_users": 21
 }
