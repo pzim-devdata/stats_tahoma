@@ -109,10 +109,10 @@
       "last_seen": "2025-06-20 14:30:01"
     },
     "YXN1c19wb3Np": {
-      "visits": 18,
+      "visits": 19,
       "first_seen": "2025-06-28 17:19:20",
       "version": "Pypi",
-      "last_seen": "2025-07-03 02:48:39"
+      "last_seen": "2025-08-14 09:24:22"
     },
     "TlZQMDA3NTFf": {
       "visits": 2,
@@ -135,6 +135,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 15335,
+  "total_visits": 15336,
   "total_users": 22
 }
