@@ -133,10 +133,10 @@
       "last_seen": "2025-07-27 14:16:02"
     },
     "QlJVTk8tUENf": {
-      "visits": 3,
+      "visits": 4,
       "first_seen": "2025-08-20 15:56:44",
       "version": "Pypi",
-      "last_seen": "2025-08-20 16:01:14"
+      "last_seen": "2025-08-21 13:52:30"
     },
     "UzM4LU1lZGlh": {
       "visits": 12,
@@ -147,6 +147,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 16770,
+  "total_visits": 16771,
   "total_users": 24
 }
