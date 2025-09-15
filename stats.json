@@ -155,10 +155,16 @@
       "first_seen": "2025-09-06 15:51:52",
       "version": "Pypi",
       "last_seen": "2025-09-06 15:58:18"
+    },
+    "REVTS1RPUC1I": {
+      "visits": 1,
+      "first_seen": "2025-09-15 21:33:36",
+      "version": "Github",
+      "last_seen": "2025-09-15 21:33:36"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 21766,
-  "total_users": 26
+  "total_visits": 21767,
+  "total_users": 27
 }
