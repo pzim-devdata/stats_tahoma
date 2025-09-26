@@ -97,10 +97,10 @@
       "last_seen": "2025-06-06 13:47:18"
     },
     "cGk2X3Bvc2l4": {
-      "visits": 6453,
+      "visits": 6454,
       "first_seen": "2025-06-08 21:40:07",
       "version": "Pypi",
-      "last_seen": "2025-09-26 19:45:02"
+      "last_seen": "2025-09-26 20:00:03"
     },
     "TlVDX01BTUFO": {
       "visits": 1,
@@ -177,6 +177,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 22958,
+  "total_visits": 22959,
   "total_users": 29
 }
