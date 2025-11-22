@@ -203,10 +203,16 @@
       "first_seen": "2025-11-04 19:41:01",
       "version": "Pypi",
       "last_seen": "2025-11-04 19:58:25"
+    },
+    "SVRIUkEtM0Qt": {
+      "visits": 1,
+      "first_seen": "2025-11-22 22:09:14",
+      "version": "Pypi",
+      "last_seen": "2025-11-22 22:09:14"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 26409,
-  "total_users": 34
+  "total_visits": 26410,
+  "total_users": 35
 }
