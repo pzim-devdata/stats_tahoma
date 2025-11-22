@@ -205,14 +205,14 @@
       "last_seen": "2025-11-04 19:58:25"
     },
     "SVRIUkEtM0Qt": {
-      "visits": 1,
+      "visits": 2,
       "first_seen": "2025-11-22 22:09:14",
       "version": "Pypi",
-      "last_seen": "2025-11-22 22:09:14"
+      "last_seen": "2025-11-22 22:46:44"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 26413,
+  "total_visits": 26414,
   "total_users": 35
 }
