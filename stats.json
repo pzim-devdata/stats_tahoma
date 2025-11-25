@@ -211,14 +211,14 @@
       "last_seen": "2025-11-22 23:35:32"
     },
     "REVTS1RPUC1R": {
-      "visits": 5,
+      "visits": 6,
       "first_seen": "2025-11-25 12:09:03",
       "version": "Pypi",
-      "last_seen": "2025-11-25 12:21:00"
+      "last_seen": "2025-11-25 12:22:40"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 26561,
+  "total_visits": 26562,
   "total_users": 36
 }
