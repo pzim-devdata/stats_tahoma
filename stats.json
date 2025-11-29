@@ -181,10 +181,10 @@
       "last_seen": "2025-09-30 10:30:29"
     },
     "VE9VUi1ERVNL": {
-      "visits": 5,
+      "visits": 6,
       "first_seen": "2025-10-03 08:32:20",
       "version": "Pypi",
-      "last_seen": "2025-11-29 13:23:17"
+      "last_seen": "2025-11-29 13:26:52"
     },
     "d2VhdGhlcnN0": {
       "visits": 6,
@@ -225,6 +225,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 26826,
+  "total_visits": 26827,
   "total_users": 37
 }
