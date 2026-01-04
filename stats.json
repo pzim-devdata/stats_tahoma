@@ -235,14 +235,14 @@
       "last_seen": "2025-12-23 21:05:48"
     },
     "RklMLVBDLUVS": {
-      "visits": 1,
+      "visits": 2,
       "first_seen": "2026-01-04 23:43:48",
       "version": "Pypi",
-      "last_seen": "2026-01-04 23:43:48"
+      "last_seen": "2026-01-05 00:05:39"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 29035,
+  "total_visits": 29036,
   "total_users": 40
 }
