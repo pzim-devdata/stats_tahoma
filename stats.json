@@ -251,10 +251,16 @@
       "first_seen": "2026-02-01 17:50:06",
       "version": "Pypi",
       "last_seen": "2026-02-01 19:10:31"
+    },
+    "bWF4aV9wb3Np": {
+      "visits": 1,
+      "first_seen": "2026-02-11 09:18:42",
+      "version": "Pypi",
+      "last_seen": "2026-02-11 09:18:42"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 31296,
-  "total_users": 42
+  "total_visits": 31297,
+  "total_users": 43
 }
