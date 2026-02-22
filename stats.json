@@ -169,10 +169,10 @@
       "last_seen": "2025-09-25 12:05:29"
     },
     "cmFzcGJlcnJ5": {
-      "visits": 32,
+      "visits": 33,
       "first_seen": "2025-09-26 07:43:53",
-      "version": "Pypi",
-      "last_seen": "2026-01-31 14:13:00"
+      "version": "Github",
+      "last_seen": "2026-02-22 17:48:22"
     },
     "bmV4dXNfcG9z": {
       "visits": 3,
@@ -267,6 +267,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 31995,
+  "total_visits": 31996,
   "total_users": 44
 }
