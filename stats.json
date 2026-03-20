@@ -13,10 +13,10 @@
       "last_seen": "2025-09-19 12:59:01"
     },
     "aG9tZWJyaWRn": {
-      "visits": 2,
+      "visits": 3,
       "first_seen": "2024-12-15 07:44:27",
       "version": "Pypi",
-      "last_seen": "2026-03-08 21:02:53"
+      "last_seen": "2026-03-20 22:06:46"
     },
     "UENfUkVNSV9u": {
       "visits": 1,
@@ -285,6 +285,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 33596,
+  "total_visits": 33597,
   "total_users": 47
 }
