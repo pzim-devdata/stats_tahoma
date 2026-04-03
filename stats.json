@@ -91,10 +91,10 @@
       "last_seen": "2025-05-28 20:06:20"
     },
     "c21hcnRob21l": {
-      "visits": 8,
+      "visits": 9,
       "first_seen": "2025-06-05 14:52:46",
       "version": "Pypi",
-      "last_seen": "2026-04-03 20:51:09"
+      "last_seen": "2026-04-03 20:51:27"
     },
     "cGk2X3Bvc2l4": {
       "visits": 17772,
@@ -297,6 +297,6 @@
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 34429,
+  "total_visits": 34430,
   "total_users": 49
 }
