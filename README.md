@@ -1,30 +1,30 @@
 # Statistiques Tahoma
 
 Voici les informations du trafic de l'application Tahoma :
-- Total d'utilisateurs uniques ayant installé Tahoma : 59
-- Nombre d'installations de Tahoma : 36479
-- Date de la dernière installation : 2026-05-07 13:45:03
+- Total d'utilisateurs uniques ayant installé Tahoma : 60
+- Nombre d'installations de Tahoma : 36480
+- Date de la dernière installation : 2026-05-07 13:46:52
 
 ## Graphiques
 ```
 Utilisateurs uniques ayant installé Tahoma par mois :
-2024-12: ████████ 3
+2024-12: ███████ 3
 2025-01: █████ 2
 2025-03: █████ 2
-2025-04: ███████████ 4
-2025-05: ███████████ 4
-2025-06: ███████████ 4
-2025-07: ████████ 3
-2025-08: ████████ 3
-2025-09: ██████████████ 5
+2025-04: ██████████ 4
+2025-05: ██████████ 4
+2025-06: ██████████ 4
+2025-07: ███████ 3
+2025-08: ███████ 3
+2025-09: ████████████ 5
 2025-10: █████ 2
-2025-11: ██████████████ 5
+2025-11: ████████████ 5
 2025-12: █████ 2
 2026-01: █████ 2
-2026-02: ███████████ 4
+2026-02: ██████████ 4
 2026-03: █████ 2
-2026-04: ██████████████ 5
-2026-05: ████████████████████ 7
+2026-04: ████████████ 5
+2026-05: ████████████████████ 8
 ```
 
 ```
@@ -45,7 +45,7 @@ Installations par mois :
 2026-02:  23
 2026-03:  6
 2026-04:  12
-2026-05:  25
+2026-05:  26
 ```
 
 ```
@@ -63,30 +63,30 @@ Nombre d'installations par version par mois :
   Pypi   : █████ 2
 
 2025-04:
-  Pypi   : ███████████ 4
+  Pypi   : ██████████ 4
 
 2025-05:
-  Pypi   : ███████████ 4
+  Pypi   : ██████████ 4
 
 2025-06:
-  Pypi   : ███████████ 4
+  Pypi   : ██████████ 4
 
 2025-07:
-  Pypi   : ████████ 3
+  Pypi   : ███████ 3
 
 2025-08:
   Github : ██ 1
   Pypi   : █████ 2
 
 2025-09:
-  Github : ████████ 3
+  Github : ███████ 3
   Pypi   : █████ 2
 
 2025-10:
   Pypi   : █████ 2
 
 2025-11:
-  Pypi   : ██████████████ 5
+  Pypi   : ████████████ 5
 
 2025-12:
   Github : ██ 1
@@ -96,17 +96,17 @@ Nombre d'installations par version par mois :
   Pypi   : █████ 2
 
 2026-02:
-  Pypi   : ███████████ 4
+  Pypi   : ██████████ 4
 
 2026-03:
   Pypi   : █████ 2
 
 2026-04:
-  Pypi   : ██████████████ 5
+  Pypi   : ████████████ 5
 
 2026-05:
-  Github : ████████████████████ 7
+  Github : ████████████████████ 8
 ```
 
 
-*Dernière mise à jour : 2026-05-07 13:45:03*
+*Dernière mise à jour : 2026-05-07 13:46:52*
