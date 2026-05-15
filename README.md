@@ -1,9 +1,9 @@
 # Statistiques Tahoma
 
 Voici les informations du trafic de l'application Tahoma :
-- Total d'utilisateurs uniques ayant installé Tahoma : 61
-- Nombre d'installations de Tahoma : 36935
-- Date de la dernière installation : 2026-05-14 21:45:02
+- Total d'utilisateurs uniques ayant installé Tahoma : 62
+- Nombre d'installations de Tahoma : 36936
+- Date de la dernière installation : 2026-05-15 06:39:30
 
 ## Graphiques
 ```
@@ -16,15 +16,15 @@ Utilisateurs uniques ayant installé Tahoma par mois :
 2025-06: ████████ 4
 2025-07: ██████ 3
 2025-08: ██████ 3
-2025-09: ███████████ 5
+2025-09: ██████████ 5
 2025-10: ████ 2
-2025-11: ███████████ 5
+2025-11: ██████████ 5
 2025-12: ████ 2
 2026-01: ████ 2
 2026-02: ████████ 4
 2026-03: ████ 2
-2026-04: ███████████ 5
-2026-05: ████████████████████ 9
+2026-04: ██████████ 5
+2026-05: ████████████████████ 10
 ```
 
 ```
@@ -45,7 +45,7 @@ Installations par mois :
 2026-02:  23
 2026-03:  6
 2026-04:  12
-2026-05:  29
+2026-05:  30
 ```
 
 ```
@@ -53,61 +53,61 @@ Nombre d'installations par version par mois :
 
 2024-12:
   Github : ██ 1
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2025-01:
   Github : ██ 1
   Pypi   : ██ 1
 
 2025-03:
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2025-04:
-  Pypi   : ██████████ 4
+  Pypi   : ████████ 4
 
 2025-05:
-  Pypi   : ██████████ 4
+  Pypi   : ████████ 4
 
 2025-06:
-  Pypi   : ██████████ 4
+  Pypi   : ████████ 4
 
 2025-07:
-  Pypi   : ███████ 3
+  Pypi   : ██████ 3
 
 2025-08:
   Github : ██ 1
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2025-09:
-  Github : ███████ 3
-  Pypi   : █████ 2
+  Github : ██████ 3
+  Pypi   : ████ 2
 
 2025-10:
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2025-11:
-  Pypi   : ████████████ 5
+  Pypi   : ███████████ 5
 
 2025-12:
   Github : ██ 1
   Pypi   : ██ 1
 
 2026-01:
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2026-02:
-  Pypi   : ██████████ 4
+  Pypi   : ████████ 4
 
 2026-03:
-  Pypi   : █████ 2
+  Pypi   : ████ 2
 
 2026-04:
-  Pypi   : ████████████ 5
+  Pypi   : ███████████ 5
 
 2026-05:
-  Github : ████████████████████ 8
+  Github : ████████████████████ 9
   Pypi   : ██ 1
 ```
 
 
-*Dernière mise à jour : 2026-05-14 21:45:02*
+*Dernière mise à jour : 2026-05-15 06:39:30*
