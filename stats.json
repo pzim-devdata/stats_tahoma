@@ -371,10 +371,16 @@
       "first_seen": "2026-05-15 06:39:30",
       "version": "Github",
       "last_seen": "2026-05-21 21:15:14"
+    },
+    "aWFuc3R2c2Vy": {
+      "visits": 1,
+      "first_seen": "2026-05-21 20:47:32",
+      "version": "Pypi",
+      "last_seen": "2026-05-21 20:47:32"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 38448,
-  "total_users": 62
+  "total_visits": 38449,
+  "total_users": 63
 }
