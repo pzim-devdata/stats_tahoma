@@ -1,9 +1,9 @@
 # Statistiques Tahoma
 
 Voici les informations du trafic de l'application Tahoma :
-- Total d'utilisateurs uniques ayant installé Tahoma : 63
-- Nombre d'installations de Tahoma : 38593
-- Date de la dernière installation : 2026-05-23 08:15:03
+- Total d'utilisateurs uniques ayant installé Tahoma : 64
+- Nombre d'installations de Tahoma : 38594
+- Date de la dernière installation : 2026-05-23 08:15:26
 
 ## Graphiques
 ```
@@ -11,20 +11,20 @@ Utilisateurs uniques ayant installé Tahoma par mois :
 2024-12: █████ 3
 2025-01: ███ 2
 2025-03: ███ 2
-2025-04: ███████ 4
-2025-05: ███████ 4
-2025-06: ███████ 4
+2025-04: ██████ 4
+2025-05: ██████ 4
+2025-06: ██████ 4
 2025-07: █████ 3
 2025-08: █████ 3
-2025-09: █████████ 5
+2025-09: ████████ 5
 2025-10: ███ 2
-2025-11: █████████ 5
+2025-11: ████████ 5
 2025-12: ███ 2
 2026-01: ███ 2
-2026-02: ███████ 4
+2026-02: ██████ 4
 2026-03: ███ 2
-2026-04: █████████ 5
-2026-05: ████████████████████ 11
+2026-04: ████████ 5
+2026-05: ████████████████████ 12
 ```
 
 ```
@@ -45,7 +45,7 @@ Installations par mois :
 2026-02:  23
 2026-03:  6
 2026-04:  12
-2026-05: █ 1203
+2026-05: █ 1204
 ```
 
 ```
@@ -86,7 +86,7 @@ Nombre d'installations par version par mois :
   Pypi   : ████ 2
 
 2025-11:
-  Pypi   : ███████████ 5
+  Pypi   : ██████████ 5
 
 2025-12:
   Github : ██ 1
@@ -102,12 +102,12 @@ Nombre d'installations par version par mois :
   Pypi   : ████ 2
 
 2026-04:
-  Pypi   : ███████████ 5
+  Pypi   : ██████████ 5
 
 2026-05:
-  Github : ████████████████████ 9
+  Github : ████████████████████ 10
   Pypi   : ████ 2
 ```
 
 
-*Dernière mise à jour : 2026-05-23 08:15:03*
+*Dernière mise à jour : 2026-05-23 08:15:26*
