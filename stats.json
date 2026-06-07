@@ -389,10 +389,16 @@
       "first_seen": "2026-06-02 11:09:16",
       "version": "Github",
       "last_seen": "2026-06-02 11:40:26"
+    },
+    "YmV0dHlfcG9z": {
+      "visits": 1,
+      "first_seen": "2026-06-07 20:56:17",
+      "version": "Github",
+      "last_seen": "2026-06-07 20:56:17"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 42338,
-  "total_users": 65
+  "total_visits": 42339,
+  "total_users": 66
 }
