@@ -395,10 +395,16 @@
       "first_seen": "2026-06-07 20:56:17",
       "version": "Github",
       "last_seen": "2026-06-07 20:58:00"
+    },
+    "cnBpLWRvbW90": {
+      "visits": 1,
+      "first_seen": "2026-06-09 07:26:28",
+      "version": "Pypi",
+      "last_seen": "2026-06-09 07:26:28"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 42647,
-  "total_users": 66
+  "total_visits": 42648,
+  "total_users": 67
 }
