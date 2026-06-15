@@ -401,10 +401,16 @@
       "first_seen": "2026-06-09 07:26:28",
       "version": "Pypi",
       "last_seen": "2026-06-09 15:41:00"
+    },
+    "amNzLW1zaV9w": {
+      "visits": 1,
+      "first_seen": "2026-06-15 09:46:51",
+      "version": "Github",
+      "last_seen": "2026-06-15 09:46:51"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 44182,
-  "total_users": 67
+  "total_visits": 44183,
+  "total_users": 68
 }
