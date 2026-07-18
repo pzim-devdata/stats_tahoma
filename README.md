@@ -2,8 +2,8 @@
 
 Voici les informations du trafic de l'application Tahoma :
 - Total d'utilisateurs uniques ayant installé Tahoma : 69
-- Nombre d'installations de Tahoma : 52545
-- Date de la dernière installation : 2026-07-18 18:30:03
+- Nombre d'installations de Tahoma : 52546
+- Date de la dernière installation : 2026-07-18 18:30:41
 
 ## Graphiques
 ```
@@ -47,7 +47,7 @@ Installations par mois :
 2026-02:  23
 2026-03:  6
 2026-04:  12
-2026-05: █████████ 11392
+2026-05: █████████ 11393
 2026-06:  11
 2026-07:  1
 ```
@@ -121,4 +121,4 @@ Nombre d'installations par version par mois :
 ```
 
 
-*Dernière mise à jour : 2026-07-18 18:30:03*
+*Dernière mise à jour : 2026-07-18 18:30:41*
