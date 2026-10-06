@@ -431,10 +431,16 @@
       "first_seen": "2026-08-01 18:33:56",
       "version": "Github",
       "last_seen": "2026-08-02 11:14:08"
+    },
+    "OThkYjUzNDMx": {
+      "visits": 1,
+      "first_seen": "2026-10-06 10:07:37",
+      "version": "Pypi",
+      "last_seen": "2026-10-06 10:07:37"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 68277,
-  "total_users": 72
+  "total_visits": 68278,
+  "total_users": 73
 }
