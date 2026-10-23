@@ -437,10 +437,16 @@
       "first_seen": "2026-10-06 10:07:37",
       "version": "Pypi",
       "last_seen": "2026-10-06 10:08:35"
+    },
+    "cnBpLXNvbGFy": {
+      "visits": 1,
+      "first_seen": "2026-10-23 12:50:32",
+      "version": "Pypi",
+      "last_seen": "2026-10-23 12:50:32"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 70359,
-  "total_users": 73
+  "total_visits": 70360,
+  "total_users": 74
 }
