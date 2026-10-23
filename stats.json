@@ -439,14 +439,14 @@
       "last_seen": "2026-10-06 10:08:35"
     },
     "cnBpLXNvbGFy": {
-      "visits": 1,
+      "visits": 2,
       "first_seen": "2026-10-23 12:50:32",
       "version": "Pypi",
-      "last_seen": "2026-10-23 12:50:32"
+      "last_seen": "2026-10-23 12:55:23"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 70360,
+  "total_visits": 70361,
   "total_users": 74
 }
