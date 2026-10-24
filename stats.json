@@ -443,10 +443,16 @@
       "first_seen": "2026-10-23 12:50:32",
       "version": "Pypi",
       "last_seen": "2026-10-23 15:33:52"
+    },
+    "ZGViaWFuX3Bv": {
+      "visits": 1,
+      "first_seen": "2026-10-24 09:14:09",
+      "version": "Pypi",
+      "last_seen": "2026-10-24 09:14:09"
     }
   },
   "total_unique_users": 1,
   "last_update": "2024-12-07 14:00:58",
-  "total_visits": 70410,
-  "total_users": 74
+  "total_visits": 70411,
+  "total_users": 75
 }
